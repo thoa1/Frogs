@@ -1,12 +1,6 @@
 
 # BattleFrog
-## CS 110 Final Project
-### Fall Semester, 2019
-### [Assignment Description](https://drive.google.com/open?id=1HLIk-539N9KiAAG1224NWpFyEl4RsPVBwtBZ9KbjicE)
 
-https://github.com/bucs110/final-project-fall19-frogs
-
-[Presentation slides](https://docs.google.com/presentation/d/15sG3_vJvBqHAASNPlOBuw2qSFYYH4nmcGRiFhdi21ro/edit?usp=sharing)
 
 ### Team: Frogs
 #### Travis, George, Aryan
@@ -64,13 +58,9 @@ This screen is the Victory screen. It displays the exit button and your score.
 
 ## Tasks and Responsibilities
 
-### Software Lead - Travis
+### Software Lead/Front End - Travis
 
 Worked as an integration specialist by helping organize the code for the main game into the proper MVC format, which allowed all portions of the code to be run from a single file. He worked very closely with the back end to develop the high-score database functionality, as well as establish the win- and fail-states for the main game. He also led the implementation of the ‘sprite’ and ‘group’ classes of pygame into the back end code.
-
-### Front End Specialist - George
-
-Front-end lead conducted significant research on using pygame to create visual aspects such as buttons and on-screen text. He used this information to design and program a consistent UI to help the player navigate the title screen, the instructions page, and the “GAME OVER” screen. In addition to implementing the wide majority of the visual element for the UI, he also collaborated with the Software Lead to create a music function that played music and to add sound effects to the menu navigation buttons.
 
 ### Back End Specialist - Aryan
 
