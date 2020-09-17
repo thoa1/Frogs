@@ -1,16 +1,11 @@
 
 # BattleFrog
 
-
-### Team: Frogs
-#### Travis, George, Aryan
-
-***
+#### Travis, Aryan
 
 ## Project Description
 Battle Frogs is a fixed shooter in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at enemies. There are three levels and once all enemies die you win the game. There is also a scoring system.
 
-***
 
 ## User Interface Design
 1. Main Menu/Start Screen
@@ -36,7 +31,6 @@ This screen is the Victory screen. It displays the exit button and your score.
 
 
 
-***
 
 ## Program Design
 * Non-Standard libraries
